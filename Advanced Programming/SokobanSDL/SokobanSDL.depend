@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1683392109 source:d:\sokobansdl\levelmanager.cpp
+	"LevelManager.h"
+
+1683284125 d:\sokobansdl\levelmanager.h
+	"Utils.h"
+	<fstream>
+	<string>
+
+1683368807 d:\sokobansdl\utils.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<iostream>
+
+1683393610 source:d:\sokobansdl\main.cpp
+	<iostream>
+	"Game.h"
+
+1683392786 d:\sokobansdl\game.h
+	"Utils.h"
+	"LevelManager.h"
+	"Player.h"
+	"Box.h"
+	"Button.h"
+	<vector>
+
+1683395005 source:d:\sokobansdl\game.cpp
+	"Game.h"
+
+1681664851 d:\sokobansdl\player.h
+	"Game.h"
+
+1683378786 source:d:\sokobansdl\player.cpp
+	"Player.h"
+
+1681667791 d:\sokobansdl\box.h
+	"Utils.h"
+
+1683347591 source:d:\sokobansdl\box.cpp
+	"Box.h"
+
+1682235910 source:d:\sokobansdl\music.cpp
+
+1683380950 d:\sokobansdl\button.h
+	"Utils.h"
+
+1683381496 source:d:\sokobansdl\button.cpp
+	"Button.h"
+
